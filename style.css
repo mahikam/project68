@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: #8B997C;
+}
+#marqueeStyle {
+    background-color: #F0D79D;
+    color: black;
+    font-size: 20px;
+}
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+img {
+    margin-left: 150px;
+}
